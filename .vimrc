@@ -41,6 +41,8 @@ if has("gui_running")
 	set guioptions-=L
 	set guioptions-=r
 	set guioptions-=R
+	" set guifont=Courier\ New:h20
+	set guifont=Microsoft\ YaHei\ Mono:h20
 endif
 
 
